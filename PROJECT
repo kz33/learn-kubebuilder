@@ -1,0 +1,6 @@
+domain: tutorial.kubebuilder.io
+layout:
+- go.kubebuilder.io/v3
+projectName: learn-kubebuilder
+repo: github.com/kz33/learn-kubebuilder
+version: "3"
